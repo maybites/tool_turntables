@@ -17,6 +17,10 @@ If not specified the parts used can be 3dprinted or lasercut.
 [POLOLU](http://www.pololu.com) Driver #2133
 [SKF](http://skf.com) BallBearing 6210-2Z
 
+## printing
+
+use for those pieces with tooths a layerheight of 0.06. This will take much longer, but should yield better quality.
+
 ## Communication
 
 see later...
